@@ -1,0 +1,20 @@
+<em>rules</em>  -  косой
+
+font-style italic
+
+<span class="i">selectors</span>
+
+.i {
+            font-style: italic;
+        }
+
+f-purple
+f-blue
+f-green
+f-red
+p
+
+<code></code>
+<sup>[1]</sup>
+<a href="" target="_blank"></a>
+<a href="" target="_blank"><sup>[1]</sup></a>
